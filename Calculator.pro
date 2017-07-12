@@ -34,3 +34,6 @@ FORMS += \
         calculatormainwindow.ui
 
 RC_ICONS = "calculator.ico"
+
+DISTFILES += \
+    calculator.ico
